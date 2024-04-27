@@ -1,0 +1,35 @@
+{
+  "pokemons": [
+    {
+      "id": "1",
+      "name": "ditto",
+      "ability": [
+        "limber",
+        "imposter"
+      ],
+      "type": "normal",
+      "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
+    },
+    {
+      "id": "1709871108828",
+      "name": "pikacho",
+      "ability": [
+        "Klutz",
+        "Leaf Guard",
+        "Levitate",
+        "Libero"
+      ],
+      "type": "normal",
+      "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+    },
+    {
+      "id": "1714187362734",
+      "name": "ditto",
+      "ability": [
+        "Costar"
+      ],
+      "type": "fire",
+      "avatar": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
+    }
+  ]
+}
